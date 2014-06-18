@@ -1,4 +1,6 @@
-codepath_hw2
-============
+Week 2 homework for codepath course
 
-Week 2 Homework - Facebook Login and Feed
+Around 15 hours to complete.
+Completed everything except optional UIRefreshControl tasks
+
+![ScreenShot](week2hw.gif)
